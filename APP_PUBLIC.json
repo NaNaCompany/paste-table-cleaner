@@ -1,0 +1,59 @@
+{
+  "slug": "paste-table-cleaner",
+  "url": "https://nanalab.kr/paste-table-cleaner/",
+  "languages": [
+    "ko",
+    "en",
+    "es",
+    "zh",
+    "ja",
+    "de"
+  ],
+  "locales": {
+    "ko": {
+      "name": "복붙 표 정리",
+      "description": "붙여 넣은 표의 공백·빈 행·빈 열을 정리하고 CSV·TSV·Markdown으로 복사하거나 저장하세요.",
+      "image_alt": "복붙 표 정리"
+    },
+    "en": {
+      "name": "Paste Table Cleaner",
+      "description": "Clean whitespace, blank rows and empty columns in pasted tables, then copy or download CSV, TSV or Markdown.",
+      "image_alt": "Paste Table Cleaner"
+    },
+    "es": {
+      "name": "Limpiador de tablas",
+      "description": "Limpia espacios, filas y columnas vacías de tablas pegadas y copia o descarga CSV, TSV o Markdown.",
+      "image_alt": "Limpiador de tablas"
+    },
+    "zh": {
+      "name": "粘贴表格整理",
+      "description": "整理粘贴表格中的空白、空行与空列，并复制或保存为 CSV、TSV 或 Markdown。",
+      "image_alt": "粘贴表格整理"
+    },
+    "ja": {
+      "name": "貼り付け表の整理",
+      "description": "貼り付けた表の空白・空行・空列を整理し、CSV・TSV・Markdownでコピーや保存ができます。",
+      "image_alt": "貼り付け表の整理"
+    },
+    "de": {
+      "name": "Kopierte Tabellen bereinigen",
+      "description": "Bereinigen Sie Leerzeichen, leere Zeilen und Spalten in eingefügten Tabellen und kopieren oder speichern Sie CSV, TSV oder Markdown.",
+      "image_alt": "Kopierte Tabellen bereinigen"
+    },
+    "fr": {
+      "name": "Nettoyage de tableaux collés",
+      "description": "Nettoyez les espaces, lignes et colonnes vides des tableaux collés, puis copiez ou téléchargez le résultat en CSV, TSV ou Markdown.",
+      "image_alt": "Nettoyage de tableaux collés"
+    },
+    "pt": {
+      "name": "Limpeza de tabelas coladas",
+      "description": "Limpe espaços, linhas e colunas vazias de tabelas coladas e copie ou baixe em CSV, TSV ou Markdown.",
+      "image_alt": "Limpeza de tabelas coladas"
+    },
+    "ru": {
+      "name": "Очистка вставленных таблиц",
+      "description": "Убирайте лишние пробелы, пустые строки и столбцы во вставленных таблицах и копируйте или скачивайте CSV, TSV либо Markdown.",
+      "image_alt": "Очистка вставленных таблиц"
+    }
+  }
+}
